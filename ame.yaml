@@ -1,0 +1,9 @@
+ quantitatively: 
+    type: "adj"
+    mean: "wrt to quantity"
+    count: 3.14159
+    syn: 
+     - 123
+     - 34
+ quantitativelz: 
+    type: "adj"
