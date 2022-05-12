@@ -1,9 +1,43 @@
+ Legend:
+    tags: 
+      - "bu"
+      - "gp"
+      - "ph"
+      - "po"
+      - "sw"
+      - "??"
+ draft: 
+   def: 
+     - ""
+   tag: 
+     - "??"
+   trs: 
+     - ""
+   exp: 
+     - ""
+ #---------
+ joining in: 
+   def: 
+     - "to become involved in an activity"
+   tag: 
+     - "ph"
+   exp: 
+     - "thank you for joining in"
+
+ statement of work: 
+   def: 
+     - "document describing all aspects of the project"
+   tag: 
+     - "ph"
+
+ get away with: 
+   def: 
+     - "escape"
+   tag: 
+     - "ph"
+
  quantitatively: 
-    type: "adj"
-    mean: "wrt to quantity"
-    count: 3.14159
-    syn: 
-     - 123
-     - 34
- quantitativelz: 
-    type: "adj"
+   def: 
+    - "wrt to quantity"
+   tag: 
+     - "??"
